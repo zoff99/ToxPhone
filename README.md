@@ -20,7 +20,7 @@
 | Screws, Tape, etc.| 5.00| 
 | Raspberry Pi CPU cooler| 5.00| 
 | <hr> | <hr> |
-| *Sum*| 126.90|
+| **Sum** | 126.90|
 
 # Software
 
