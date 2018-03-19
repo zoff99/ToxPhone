@@ -27,3 +27,9 @@
 * [ToxBlinkenwall](https://github.com/zoff99/ToxBlinkenwall)
 
 *ToxBlinkenwall is all you need to transform your Raspberry Pi into a fully end-to-end encrypted 2 way Video Phone*
+
+# other releated Projects
+
+it seems there was someone else already building a ToxPhone, and i did't know about it
+
+https://hackaday.io/project/9046-toxphone
