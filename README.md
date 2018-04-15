@@ -1,6 +1,7 @@
 # ToxPhone 2.0
 ### The Worlds First Hardware ToxPhone with Video
 
+look for ToxPhone 1.0 (the original version) [here](https://github.com/zoff99/ToxPhone/blob/ToxPhone_v1.0/README.md)
 
 
 # Hardware
