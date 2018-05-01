@@ -34,5 +34,8 @@ see ToxPhone 1.0 (the original version) [here](https://github.com/zoff99/ToxPhon
 # other releated Projects
 
 it seems there was someone else already building a ToxPhone, and i did't know about it
-
 https://hackaday.io/project/9046-toxphone
+
+if you are looking for the Software also called ToxPhone, see
+https://github.com/hkarel/ToxPhone
+
