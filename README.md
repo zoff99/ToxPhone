@@ -23,7 +23,7 @@ look for ToxPhone 1.0 (the original version) [here](https://github.com/zoff99/To
 | Screws, Tape, etc.| 8.00| 
 | Raspberry Pi CPU cooler| 5.00| 
 | <hr> | <hr> |
-| **Sum** | 126.90|
+| **Sum** | 142.08|
 
 # Software
 
