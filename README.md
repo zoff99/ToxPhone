@@ -16,7 +16,7 @@
 | [Raspberry Pi Camera Module V2](https://www.raspberrypi.org/products/camera-module-v2/)|28.00 | 
 | [Flexcable 30 cm for Raspberry Pi Camera](https://www.amazon.de/gp/product/B01NAXKTDP)| 5.00 | 
 | [USB Sound Device DA-70772](https://www.amazon.de/gp/product/B000FIH4FQ)| 10.00| 
-| [3D printed parts](https://github.com/zoff99/ToxPhone/tree/master/3D_printer_parts/)| 1.00| 
+| [3D printed parts](https://github.com/zoff99/ToxPhone/tree/ToxPhone_v1.0/3D_printer_parts/)| 1.00| 
 | Screws, Tape, etc.| 5.00| 
 | Raspberry Pi CPU cooler| 5.00| 
 | <hr> | <hr> |
