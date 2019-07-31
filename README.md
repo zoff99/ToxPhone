@@ -5,7 +5,6 @@ see ToxPhone 1.0 (the original version) [here](https://github.com/zoff99/ToxPhon
 
 
 <img src="https://raw.githubusercontent.com/zoff99/ToxPhone/master/doc/images/ToxPhone_v2.0_promo_001.png" height="250" />&nbsp;<img src="https://raw.githubusercontent.com/zoff99/ToxPhone/master/doc/images/ToxPhone_v2.0_promo_002.png" height="250" /><br>
-<img src="https://raw.githubusercontent.com/zoff99/ToxPhone/master/doc/images/ToxPhone_v2.0_promo_003.png" height="250" />
 
 # Hardware
 
